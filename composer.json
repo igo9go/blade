@@ -1,7 +1,9 @@
 {
     "name": "igo9go/blade",
     "keywords": ["laravel", "blade", "template", "view", "render"],
-    "license" : "MIT",
+	"description": "a html template package for laravel5",
+	"type": "library",
+	"license" : "MIT",
     "authors": [
         {
             "name": "zhouqiang",
