@@ -25,3 +25,7 @@ define('CACHEPATH', 'cache');
 
 echo view('homepage', ['name' => 'John Doe']);
 ```
+
+###模板语法
+
+模板语法参考`https://d.laravel-china.org/docs/5.5/blade`
